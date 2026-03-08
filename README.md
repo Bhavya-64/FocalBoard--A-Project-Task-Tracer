@@ -103,11 +103,11 @@ Steps to contribute:
 
 ## Author
 
-Bhavya Sree
-Sai Lakshmi
-Anshu Kasula
-Sai Suvan Reddy
-Abhishek Reddy
+1. Bhavya Sree
+2. Sai Lakshmi
+3. Anshu Kasula
+4. Sai Suvan Reddy
+5. Abhishek Reddy
 
 
 ## License
