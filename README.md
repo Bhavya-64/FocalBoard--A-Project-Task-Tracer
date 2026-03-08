@@ -104,8 +104,10 @@ Steps to contribute:
 ## Author
 
 Bhavya Sree
-
-GitHub: https://github.com/Bhavya-64
+Sai Lakshmi
+Anshu Kasula
+Sai Suvan Reddy
+Abhishek Reddy
 
 
 ## License
